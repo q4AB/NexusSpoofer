@@ -29,15 +29,18 @@ Welcome to Nexus Spoofer – your premium solution for bypassing IP and hardware
 
 To launch Nexus Spoofer and begin using it, follow these steps:
 
-1. **Locate the Executable (EXE) File**  
-   You should have received an executable file with a .exe extension for Nexus Spoofer. Locate this file on your computer.
+1. **Locate the NexusSpoofer.py File**  
+   Find the folder where the NexusSpoofer.py file is located on your computer.
 
-2. **Execute the Program**  
-   Double-click the executable file. This action will open a command prompt (CMD) panel.
+2. **Open a Command Prompt (CMD)**  
+   In that folder, right-click, and select "Open Command Prompt" or "Open PowerShell."
 
-3. **Follow On-Screen Instructions**  
-   Inside the CMD panel, meticulously follow the on-screen instructions to complete the ban bypass process, as outlined in the "Getting Started" section above.
+3. **Execute Nexus Spoofer**  
+   In the command prompt, type the following command exactly as shown: "py NexusSpoofer.py"
 
-Please use Nexus Spoofer responsibly and always adhere to the terms of service of the game you're playing. Attempting to bypass bans may lead to significant consequences.
+Make sure to enter it precisely; any deviation may result in errors.
 
-Enjoy a seamless and ban-free gaming experience with Nexus Spoofer!
+Enjoy a smooth and ban-free gaming experience with Nexus Spoofer!
+
+
+
