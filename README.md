@@ -42,5 +42,7 @@ Make sure to enter it precisely; any deviation may result in errors.
 
 Enjoy a smooth and ban-free gaming experience with Nexus Spoofer!
 
+If you have any questions add .ch13f. on discord
+
 
 
